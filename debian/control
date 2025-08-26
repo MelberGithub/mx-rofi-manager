@@ -1,7 +1,7 @@
 Source: mx-rofi-manager
 Section: desktop
 Priority: optional
-Maintainer: Jerry3904<jerry@mxlinux.org>
+Maintainer: Melber <melber.mx.linux@gmail.com>
 Build-Depends: debhelper (>= 9.20120115)
 Standards-Version: 3.9.6
 Homepage: https:/mxlinux.org
