@@ -1,3 +1,9 @@
+mx-rofi-manager (25.11.01) mx; urgency=medium
+
+  * check function fix
+
+ -- Melber <melber-mx-linux@gmail.com>  Sat, 01 Nov 2025 00:32:03 +0100
+
 mx-rofi-manager (25.08.01) mx; urgency=medium
 
   * new themes and update for MX25
