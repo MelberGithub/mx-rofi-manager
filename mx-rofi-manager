@@ -79,7 +79,7 @@ fi
 mxrm_check_value=$(grep $mxrm_version $HOME/.config/rofi/mxrm-check)
 
 #if [ ! -f $HOME/.config/rofi/mxrm-check ]; then
-if [ -z $mxrm_check_value ]; then
+if [ -z "$mxrm_check_value" ]; then
     NOW=$(date +%Y"%m%d")
     MESSAGE="$(eval_gettext 'This tool edits the rofi config file.\n\nThe existing file will be backed up as \n\n<b>$HOME/.restore/rofi/config.rasi_$NOW</b>')"
     
